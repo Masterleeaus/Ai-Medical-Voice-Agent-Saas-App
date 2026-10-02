@@ -1,3 +1,5 @@
+![Medical Voice Intake and Documentation App — FORK-BASED LEARNING PROJECT](docs/images/portfolio-banner.svg)
+
 # AI Medical Voice Agent
 
 > A full-stack voice AI application exploring conversational medical intake, doctor matching, session chat and AI-generated medical reports.
