@@ -4,6 +4,13 @@
 
 > A full-stack voice AI application exploring conversational medical intake, doctor matching, session chat and AI-generated medical reports.
 
+## Product architecture and engineering highlights
+
+A full-stack voice-intake application that explores how a patient conversation can connect to session chat, doctor suggestions, and generated visit documentation.
+
+- **Architecture:** Next.js and React provide the application surface; Clerk handles sign-in; Drizzle and Neon persist data; Vapi supplies browser voice; OpenAI powers language-model workflows.
+- **Distinctive engineering:** Its distinctive workflow connects a live voice interaction with follow-up APIs and persisted session context. It is a software integration example, not a clinical diagnostic system.
+
 ## Overview
 
 This repository is a **fork-based learning and implementation project** built around a Next.js medical voice-agent application. It demonstrates how a modern TypeScript web application can combine authenticated user experiences, real-time voice AI, application APIs, persistent data and LLM-assisted workflows.
